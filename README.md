@@ -10,7 +10,6 @@ Windows 开发环境搭建
 
 下载安装 Nginx 并完成以下配置
 
-# 在 http 这一项下配置以下内容
 
 map $http_upgrade $connection_upgrade{
     default upgrade;
